@@ -406,8 +406,8 @@
 
   "upgradednetherite.Blank.TT": "",
   "upgradednetherite.HoldShift.TT": "按住§b§nShift§r§f以查看更多信息。",
-  "upgradednetherite.Bonus.TT": "§a§l奖励属性",
-  "upgradednetherite.SetBonus.TT": "§a§l整套盔甲奖励属性（%1$s§a§l）",
+  "upgradednetherite.Bonus.TT": "§a§l增益属性",
+  "upgradednetherite.SetBonus.TT": "§a§l整套盔甲增益属性（%1$s§a§l）",
   "upgradednetherite.Malus.TT": "§c§l惩罚属性",
   "upgradednetherite.OnHit.TT": "§e§l击中时",
   "upgradednetherite.WhenBlocking.TT": "§e§l格挡时",
